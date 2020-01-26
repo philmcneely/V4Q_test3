@@ -1,0 +1,3 @@
+Version: 0.2
+My name is: Phil McNeely
+I like Git! True
